@@ -19,10 +19,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough
 <img src="http://g.recordit.co/aJ0NXwKWgu.gif" width=250><br>
-<img src="http://g.recordit.co/Ug77AaerrU.gif" width=250><br>
-
-### Notes
-Describe any challenges encountered while building the app.
+<img src="http://g.recordit.co/I7jLyHgJvr.gif" width=250><br>
 
 ---
 
@@ -44,5 +41,5 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/BG2ILYWK9N.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenges
 >> The main challenge so far is to get cocoapods setup correctly on Mac Catalina 10.15.7. I had Loaderror issues when setting up the pod by `pod setup`. The final solution that helped after seeing "cannot locate gemfile" is to do `bundle init` and `bundle install`. Afterwards, `sudo gem install -n /usr/local/bin cocoapods` and `pod setup` do the job.
